@@ -1,19 +1,19 @@
-### Hi, I'm Hung. One-person growth team. Building in the open from Saigon.
+### One-person growth team. Building in the open from Saigon.
 
-Top percentile of AI-leverage among growth operators in Vietnam. Three scale events on record (Garena, Ninety Eight, Kyber). The rest is here.
+I ran growth at Garena, Ninety Eight, and Kyber — 0→1.5M users, 2M+ followers, $200B+ DeFi funnels. Now I ship the AI tooling behind that work, in public, through FORSVN.
 
-#### Currently shipping through FORSVN
+#### Shipping through FORSVN
 
-- **[forsvn-skills](https://github.com/hungv47/meta-skills)** — 43 open-source AI agent skills across meta, research, marketing, and product. 1,246 installs across hungv47 skills.sh sources. MIT.
-- **[syncthis](https://github.com/hungv47/syncthis)** — CLI mirroring MCP configs across 11 AI coding agents. `@hungv47/syncthis` v0.2.2 on npm. 138 weekly / 721 monthly DLs. MIT.
-- **[metaprev](https://github.com/hungv47/metaprev)** — CLI to preview OG cards locally. `@hungv47/metaprev` v0.3.3 on npm. 662 monthly DLs. MIT.
-- **[Conquis web](https://conquis.forsvn.com)** — free spatial canvas. FORSVN app v0 is scoped separately as a local artifact review workspace.
+- **[forsvn-skills](https://github.com/hungv47/meta-skills)** — open-source AI agent skills across meta, research, marketing, and product. ~2,300 installs. MIT.
+- **[syncthis](https://github.com/hungv47/syncthis)** — one config, every AI coding agent. `@hungv47/syncthis` on npm. MIT.
+- **[metaprev](https://github.com/hungv47/metaprev)** — preview OG cards locally before they ship. `@hungv47/metaprev` on npm. MIT.
+- **[Conquis web](https://conquis.forsvn.com)** — free spatial canvas for messy thinking. FORSVN app (agents draft, I approve — local) is in active build.
 
 #### Three scale events before going solo
 
 - **Garena** — 2M+ followers across 5 SEA countries. 15-person pod. SEA Games 31.
 - **Ninety Eight** — 0 to 1.5M MAUs in 90 days. 1.2x viral. 45% retention. CPI ≤ $0.20.
-- **Kyber** — funnel pipeline across 14 sources and 6 stages for a $200B+ DeFi aggregator.
+- **Kyber** — funnel pipeline across 14 sources and 6 stages. $200B+ DeFi aggregator.
 
 #### Find me
 
@@ -22,4 +22,4 @@ Top percentile of AI-leverage among growth operators in Vietnam. Three scale eve
 - [@hungv47](https://x.com/hungv47) — build receipts
 - [linkedin.com/in/hungv47](https://linkedin.com/in/hungv47) — recruiter-facing
 
-Open to Growth & Product IC roles. Bilingual EN/VN. Available now.
+Open to Growth Lead, Head of Growth, Senior PM, PMM. Bilingual EN/VN. Available now.
