@@ -1,6 +1,14 @@
-### One-person growth team. Building in the open from Saigon.
+### Modern Marketing Engineer. I don't run campaigns — I build the growth & GTM systems that run them.
 
-I ran growth at Garena, Ninety Eight, and Kyber — 0→1.5M users, 2M+ followers, $200B+ DeFi funnels. Now I ship the AI tooling behind that work, in public, through FORSVN.
+Seven years of growth, product, and paid media at Garena, Ninety Eight, and Kyber — 0→1.5M users, 2M+ SEA followers, $1M+ at $0.20 CPI. Now I ship the agent-native stack that does that work on its own, in public, through FORSVN.
+
+#### The machinery I build
+
+- **Data pipeline → warehouse** — one source of truth for every channel
+- **Cron-driven execution** — recurring marketing work that runs unattended
+- **Agent infrastructure** — Postgres for agent memory, auth, sharable links, cloud server + media storage
+- **Conversational analytics** — graphed MCP: ask the live data in plain language
+- **Adaptive API gateway** — nano-banana, Apollo IO, seedance, apify, wired per use-case
 
 #### Shipping through FORSVN
 
@@ -22,4 +30,4 @@ I ran growth at Garena, Ninety Eight, and Kyber — 0→1.5M users, 2M+ follower
 - [@hungv47](https://x.com/hungv47) — build receipts
 - [linkedin.com/in/hungv47](https://linkedin.com/in/hungv47) — recruiter-facing
 
-Open to Growth Lead, Head of Growth, Senior PM, PMM. Bilingual EN/VN. Available now.
+Open to Growth Lead, Head of Growth, Modern Marketing / GTM Engineering roles. Bilingual EN/VN. Available now.
