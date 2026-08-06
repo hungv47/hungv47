@@ -1,6 +1,11 @@
-### Modern Marketing Engineer. I build the growth and GTM systems, then deploy so they'll run their own.
+### Modern Marketing Engineer. I build the growth and GTM systems, then deploy so they'll run on their own.
 
-Seven years at Garena, NinetyEight, and Kyber: 0 to 1.5M users, 2M+ SEA followers, $1M+ at $0.20 CPI. Now I ship the agent-native stack that runs that work, in public, through FORSVN.
+Seven years at Garena, NinetyEight, and Kyber: 
+- 0 to 1.5M users in 90 days
+- 2M+ social media follower across platforms
+- $1M+ in paid media at $0.20 CPI
+
+Now I ship the agent-native stack that runs that work, in public, through FORSVN.
 
 #### What I build
 
