@@ -6,16 +6,15 @@ Seven years at Garena, NinetyEight, and Kyber: 0 to 1.5M users, 2M+ SEA follower
 
 - Data pipeline to warehouse, one truth for every channel
 - Cron-driven repeating work that runs unattended
-- Agent infra: Postgres memory, auth, share links, cloud server, media
-- Graphed-MCP analytics, ask the live data in plain language
-- API gateway per use-case: nano-banana, Apollo IO, seedance, apify
+- Agent infra: Postgres memory, auth, share links, cloud server, media storage
+- API gateway per marketing use-case
 
 #### Shipping through FORSVN
 
 - **[forsvn-skills](https://github.com/hungv47/meta-skills)** — open-source AI skills across meta, research, market, product. ~2,300 installs. MIT.
 - **[syncthis](https://github.com/hungv47/syncthis)** — one config, every AI coding agent. `@hungv47/syncthis` on npm. MIT.
 - **[metaprev](https://github.com/hungv47/metaprev)** — preview OG cards before you ship. `@hungv47/metaprev` on npm. MIT.
-- **[Conquis web](https://conquis.forsvn.com)** — free spatial canvas for messy thinking. The FORSVN app (agents draft, I approve) is in active build.
+- **[Nook web](https://nook.forsvn.com)** — free spatial canvas for messy thinking. The FORSVN app (agents draft, I approve) is in active build.
 
 #### Three scale runs before I went solo
 
@@ -25,9 +24,9 @@ Seven years at Garena, NinetyEight, and Kyber: 0 to 1.5M users, 2M+ SEA follower
 
 #### Find me
 
-- [hungv47.com](https://hungv47.com) — writing, work, taste
-- [forsvn.com](https://forsvn.com) — the studio
-- [@hungv47](https://x.com/hungv47) — build receipts
-- [linkedin.com/in/hungv47](https://linkedin.com/in/hungv47) — recruiter-facing
+- [hungv47.com](https://hungv47.com)
+- [forsvn.com](https://forsvn.com)
+- [@hungv47](https://x.com/hungv47)
+- [linkedin.com/in/hungv47](https://linkedin.com/in/hungv47)
 
-Open to Growth Lead, Head of Growth, GTM Engineering. Bilingual EN/VN. Available now.
+Speaks English, Chinese, and Vietnamese
