@@ -1,13 +1,6 @@
-### Marketing engineer. I build growth systems, then deploy so they run themselves.
+# I build growth systems, then deploy so they run themselves.
 
-Growth at **Garena · NinetyEight · Kyber**. Now shipping the agent-native stack in public through [FORSVN](https://forsvn.com).
-
-**Shipping**
-
-- [forsvn-skills](https://github.com/hungv47/meta-skills) — open-source AI skills, ~2,300 installs
-- [syncthis](https://github.com/hungv47/syncthis) — one config, every AI coding agent
-- [metaprev](https://github.com/hungv47/metaprev) — preview OG cards before you ship
-- [Nook](https://nook.forsvn.com) — free spatial canvas for messy thinking
+Growth/marketing engineer. Now shipping the agent-native stack in public through [FORSVN](https://forsvn.com).
 
 [![Website](https://img.shields.io/badge/hungv47.com-000?logo=aboutdotme&logoColor=white)](https://hungv47.com)
 [![X](https://img.shields.io/badge/%40hungv47-000?logo=x&logoColor=white)](https://x.com/hungv47)
