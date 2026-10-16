@@ -1,6 +1,6 @@
-# I build growth systems, then deploy so they run themselves.
+# Hung (spell like "Hungry" but without the Y)
 
-Growth/marketing engineer. Now shipping the agent-native stack in public through [FORSVN](https://forsvn.com).
+Growth/marketing engineer. I stitch together and deploy durable workflows so growth can run autonomously. I also built [FORSVN](https://forsvn.com) to help your agents do better marketing (free & open source btw).
 
 If you are working on something cool or want to chat, hit me up at hi@hungv47.com!
 
