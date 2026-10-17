@@ -1,4 +1,5 @@
-https://media.gifs.so/assets/6970c550dc1f43186c47dc19a9c8097ac7758b22865a9a05cc6bf416a7a2785c.gif
+![Never gonna give you up](https://media.gifs.so/assets/6970c550dc1f43186c47dc19a9c8097ac7758b22865a9a05cc6bf416a7a2785c.gif)
+
 Growth/marketing engineer. I stitch together and deploy durable workflows so growth can run autonomously. I also built [FORSVN](https://forsvn.com) to help your agents do better marketing (free & open source btw).
 
 If you are working on something cool or want to chat, hit me up at hi@hungv47.com!
