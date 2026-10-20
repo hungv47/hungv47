@@ -1,8 +1,4 @@
-<img src="assets/never-gonna-give-you-up.gif" alt="Never gonna give you up" width="300">
-
-Growth/marketing engineer. I stitch together and deploy durable workflows so growth can run autonomously. I also built [FORSVN](https://forsvn.com) to help your agents do better marketing (free & open source btw).
-
-If you are working on something cool or want to chat, hit me up at hi@hungv47.com!
+Growth/marketing engineer. I build and deploy durable growth workflows. Also [FORSVN](https://forsvn.com) (free & open-source marketing plugin for your agents)
 
 [![Website](https://img.shields.io/badge/hungv47.com-000?logo=aboutdotme&logoColor=white)](https://hungv47.com)
 [![X](https://img.shields.io/badge/%40hungv47-000?logo=x&logoColor=white)](https://x.com/hungv47)
